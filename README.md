@@ -1,11 +1,11 @@
 ## Siddharth pany (21BEE0179)
-#
+
 ## Video demonstration link for git commands :<br>
 https://youtu.be/54-dr0wr-N4
-#
+
 
  ##  **GIT Commands**
- #
+ 
 The git commands are:
 
 * ## *i.* `git config`:
